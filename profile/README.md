@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="../assets/wakelink-logo-white.svg" alt="WakeLink Logo" width="200">
+<img src="https://raw.githubusercontent.com/wakelinkdev/.github/main/assets/wakelink-logo-white.svg" alt="WakeLink Logo" width="200">
 
 ### Secure Remote Computer Management
 
-[![Protocol](https://img.shields.io/badge/protocol-EWSP%20v1.0-6366f1?style=for-the-badge)](https://github.com/wakelinkdev/ewsp-core)
-[![Encryption](https://img.shields.io/badge/encryption-XChaCha20-10b981?style=for-the-badge)](https://github.com/wakelinkdev/ewsp-core)
+[![Protocol](https://img.shields.io/badge/protocol-EWSP%20v1.0-6366f1?style=for-the-badge)](https://github.com/wakelinkdev/ewsp)
+[![Encryption](https://img.shields.io/badge/encryption-XChaCha20-10b981?style=for-the-badge)](https://github.com/wakelinkdev/ewsp)
 [![License](https://img.shields.io/badge/license-NGC%20v1.0-f59e0b?style=for-the-badge)](LICENSE)
 
 [Documentation](https://wakelink-project.org/docs) • [Quick Start](#-quick-start) • [Contributing](https://github.com/wakelinkdev/.github/blob/main/CONTRIBUTING.md)
