@@ -1,3 +1,5 @@
+[🇬🇧 English](CONTRIBUTING.md) | [🇷🇺 Русский](CONTRIBUTING_RU.md)
+
 # Contributing to WakeLink
 
 First off, thank you for considering contributing to WakeLink! It's people like you that make WakeLink such a great tool.

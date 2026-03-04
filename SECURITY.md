@@ -1,3 +1,5 @@
+[🇬🇧 English](SECURITY.md) | [🇷🇺 Русский](SECURITY_RU.md)
+
 # Security Policy
 
 ## Supported Versions
