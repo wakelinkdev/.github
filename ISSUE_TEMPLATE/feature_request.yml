@@ -1,0 +1,53 @@
+---
+name: Feature Request 💡
+about: Suggest a new feature or enhancement
+title: '[FEATURE] '
+labels: enhancement, triage
+assignees: ''
+---
+
+## Summary
+
+Brief description of the feature you'd like to see.
+
+## Motivation
+
+Why do you want this feature? What problem does it solve?
+
+## Detailed Design
+
+How should this feature work? Provide as much detail as possible.
+
+## Alternatives Considered
+
+What other approaches have you considered? Why is your proposal the best?
+
+## Additional Context
+
+Any other relevant information, mockups, or examples.
+
+## Component
+
+- [ ] ewsp-core (cryptography/protocol)
+- [ ] wakelink-firmware (ESP)
+- [ ] wakelink-client (CLI)
+- [ ] wakelink-android
+- [ ] wakelink-multiplatform
+- [ ] Documentation
+- [ ] Other (please specify)
+
+## Complexity
+
+How complex do you think this feature would be to implement?
+
+- [ ] Simple (few hours)
+- [ ] Medium (few days)
+- [ ] Complex (weeks)
+- [ ] Very complex (months)
+
+## Checklist
+
+- [ ] I have searched existing issues
+- [ ] I have provided clear motivation for this feature
+- [ ] I have considered alternative approaches
+- [ ] I would be willing to help implement this feature

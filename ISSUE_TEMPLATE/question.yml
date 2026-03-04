@@ -1,0 +1,48 @@
+---
+name: Question ❓
+about: Ask a question about WakeLink
+title: '[QUESTION] '
+labels: question, triage
+assignees: ''
+---
+
+## Question
+
+What would you like to know?
+
+## Context
+
+Please provide context for your question:
+
+- What are you trying to achieve?
+- What have you already tried?
+- What documentation have you consulted?
+
+## Component
+
+Which component is your question about?
+
+- [ ] ewsp-core (cryptography/protocol)
+- [ ] wakelink-firmware (ESP)
+- [ ] wakelink-client (CLI)
+- [ ] wakelink-android
+- [ ] wakelink-multiplatform
+- [ ] General usage
+- [ ] Security
+- [ ] Other
+
+## Environment (if relevant)
+
+- **OS**: 
+- **Version**: 
+- **Device**: 
+
+## Additional Context
+
+Any other information that might help us answer your question.
+
+## Checklist
+
+- [ ] I have searched existing issues and discussions
+- [ ] I have consulted the documentation at [wakelink-project.org/docs](https://wakelink-project.org/docs)
+- [ ] This is not a bug report (if it is, please use the bug report template)

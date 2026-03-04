@@ -1,0 +1,42 @@
+---
+name: "⚠️ Security Vulnerability"
+about: "DO NOT USE THIS - Email security@wakelink.io instead"
+title: "🚨 SECURITY ISSUE - DO NOT USE THIS TEMPLATE"
+labels: invalid
+assignees: ''
+---
+
+# 🚨 STOP!
+
+**DO NOT report security vulnerabilities through public GitHub issues!**
+
+This exposes users to risk before a fix can be released.
+
+## How to Report a Security Vulnerability
+
+1. **Email us at security@wakelink.io**
+2. Include:
+   - Description of the vulnerability
+   - Steps to reproduce
+   - Potential impact
+   - Suggested fix (if any)
+
+3. **We will respond within 48 hours**
+
+## Why Not Public Issues?
+
+- Protects users from exploitation
+- Allows us to fix the issue before disclosure
+- Follows responsible disclosure practices
+
+## Thank You
+
+We appreciate responsible security research and will:
+
+- Acknowledge you in our security advisory (if desired)
+- Work with you on a timeline for disclosure
+- Consider monetary rewards for critical issues
+
+---
+
+**Please close this issue and email us instead: security@wakelink.io**

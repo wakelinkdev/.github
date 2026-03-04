@@ -1,0 +1,59 @@
+---
+name: Bug Report 🐛
+about: Create a report to help us improve
+title: '[BUG] '
+labels: bug, triage
+assignees: ''
+---
+
+## Description
+
+A clear and concise description of what the bug is.
+
+## Environment
+
+- **Component**: [ewsp-core / firmware / client / android / multiplatform]
+- **Version**: 
+- **OS**: [Windows / macOS / Linux / Android / iOS]
+- **Device**: [e.g., ESP32, iPhone 12, Samsung Galaxy S21]
+
+## Steps to Reproduce
+
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
+
+## Expected Behavior
+
+A clear and concise description of what you expected to happen.
+
+## Actual Behavior
+
+A clear and concise description of what actually happened.
+
+## Screenshots
+
+If applicable, add screenshots to help explain your problem.
+
+## Logs
+
+<details>
+<summary>Relevant logs (click to expand)</summary>
+
+```
+Paste logs here
+```
+
+</details>
+
+## Additional Context
+
+Add any other context about the problem here.
+
+## Checklist
+
+- [ ] I have searched existing issues
+- [ ] I have provided all required environment information
+- [ ] I have included steps to reproduce the issue
+- [ ] I have included relevant logs/screenshots

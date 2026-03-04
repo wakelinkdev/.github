@@ -1,0 +1,23 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://wakelink-project.org/docs
+    about: Check our documentation for usage guides and troubleshooting
+  - name: 💬 Discussions
+    url: https://github.com/orgs/wakelinkdev/discussions
+    about: Ask questions and discussion about WakeLink
+  - name: 🔒 Security Issues
+    url: mailto:security@wakelink.io
+    about: Report security vulnerabilities privately
+  - name: 🐛 Bug in ewsp-core
+    url: https://github.com/wakelinkdev/ewsp-core/issues/new
+    about: Report bugs in the core cryptography library
+  - name: 🔧 Bug in firmware
+    url: https://github.com/wakelinkdev/wakelink-firmware/issues/new
+    about: Report bugs in ESP8266/ESP32 firmware
+  - name: 🖥️ Bug in CLI client
+    url: https://github.com/wakelinkdev/wakelink-client/issues/new
+    about: Report bugs in the Python CLI client
+  - name: 📱 Bug in Android app
+    url: https://github.com/wakelinkdev/wakelink-android/issues/new
+    about: Report bugs in the Android application
